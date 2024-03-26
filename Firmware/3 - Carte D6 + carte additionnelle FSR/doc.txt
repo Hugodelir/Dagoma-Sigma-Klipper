@@ -1,0 +1,12 @@
+Fr
+Version de fichier Klipper avec la configuration matériel :
+Electronique carte Dagoma D6
+mecanique d'origine
+Ajout d'une carte additionel pour la gestion des capteur FSR et cr&ation d'un sortie numérique vue comme un end-stop par la carte mere
+
+
+Eng :
+Klipper file version with hardware configuration:
+Electronic card Dagoma D6
+original mechanics
+Addition of an addon card for the management of FSR sensors and creation of a digital output seen as an end-stop by the motherboard
