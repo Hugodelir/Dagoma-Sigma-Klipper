@@ -11,6 +11,7 @@ Particularité de cette imprimante utilisation de 3 capteurs de force (FSR) posi
 avec utilisation d'une entrée analogique code adapté de Marlin.
 
 4 étapes envisagé :
+
 1- Electronique et mécanique d'origine, avec utilisation de cale de rappel afin de faire fonctionner les FSR dans la plage de commutation de l'entrée numérique.
 
 2- Electronique et mécanique d'origine, avec ajout d'une carte pour la gestion des FSR qui produit en sortir un signal numérique tout ou rien.
